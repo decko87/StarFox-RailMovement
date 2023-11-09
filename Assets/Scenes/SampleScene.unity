@@ -21467,7 +21467,8 @@ Light:
   m_BounceIntensity: 1
   m_ColorTemperature: 6570
   m_UseColorTemperature: 0
-  m_BoundingSphereOverride: {x: 1.02e-43, y: 1.8e-44, z: 7.165e-42, w: 1.076e-42}
+  m_BoundingSphereOverride: {x: 4.6304264e+27, y: 1.8017357e+25, z: 2.1598888e+29,
+    w: 3.0261557e+29}
   m_UseBoundingSphereOverride: 0
   m_UseViewFrustumForShadowCasterCull: 1
   m_ShadowRadius: 0
@@ -35729,7 +35730,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   joystick: 0
   xySpeed: 12
-  lookSpeed: 10000
+  lookSpeed: 100
   forwardSpeed: 12
   aimTarget: {fileID: 211228551}
   dolly: {fileID: 361593942}
